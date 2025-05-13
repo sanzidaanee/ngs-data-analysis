@@ -1,0 +1,39 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fastqc.zip
+*.fastp
+*.fastp.json
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+*.dict
+*.fai
+*.idx
+
+
+# Variant calling
+*.vcf
+*.vcf.gz
+*.tbi
+
+# Intermediate and temp files
+*.tmp
+*.intermediate
+*.swp
+*.log
+
+# Count and matrix files
+*.tsv
+*.csv
+*.rds
+*.mtx
+
+# Hidden/system files
+.DS_Store
+.env
+data/
+output/
+

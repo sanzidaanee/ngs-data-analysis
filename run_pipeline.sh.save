@@ -1,0 +1,18 @@
+# Part 1: Data Download
+# create a new directory
+mkdir ref_genome
+cd ref_genome
+# get ref genome
+wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/chr20.fa.gz
+
+wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/chr21.fa.gz
+
+# Unzip file
+gunzip chr20.fa.gz
+Gunzip chr21.fa.gz
+# Download SRA TOOL KIT and configure it
+wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-ubuntu64.tar.gz
+tar -xzvf sratoolkit.current-ubuntu64.tar.gz
+# Rename file
+mv sratoolkit.3.1.0-ubuntu64 sra_toolkit
+
