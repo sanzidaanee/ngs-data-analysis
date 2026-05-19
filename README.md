@@ -1,6 +1,6 @@
 # Variant Calling and Annotation Pipeline for Tongue Cancer WGS Data
 
-**NGS Internship Mini-Project — Team 7**  
+**NGS Internship Mini-Project**  
 **BioProject:** [PRJEB62494](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB62494)
 
 ---
@@ -44,7 +44,7 @@ Tongue cancer (oral squamous cell carcinoma of the tongue) is an aggressive mali
 ## Pipeline Workflow
 
 
-<img width="1400" height="2254" alt="workflow" src="https://github.com/user-attachments/assets/bddd1233-668b-4eeb-ae99-46ea485a6ccd" />
+<img width="1400" height="2284" alt="workflow (1)" src="https://github.com/user-attachments/assets/213fa789-10f0-47b2-9696-f47ceb7a5115" />
 
 
 ```
