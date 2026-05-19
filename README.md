@@ -44,6 +44,11 @@ Tongue cancer (oral squamous cell carcinoma of the tongue) is an aggressive mali
 ## Pipeline Workflow
 
 ```
+
+<img width="1400" height="2254" alt="workflow" src="https://github.com/user-attachments/assets/ab86a9a3-9fb7-4193-8f87-c743cadbe642" />
+
+
+
 Raw Reads (FASTQ)
        │
        ▼
